@@ -1,0 +1,21 @@
+rating,type,count
+G,Movie,40
+G,TV Show,27
+NR,Movie,32
+NR,TV Show,27
+PG,Movie,165
+PG,TV Show,92
+PG-13,Movie,363
+PG-13,TV Show,169
+R,Movie,409
+R,TV Show,251
+TV-14,Movie,1060
+TV-14,TV Show,548
+TV-G,Movie,226
+TV-G,TV Show,102
+TV-MA,Movie,1255
+TV-MA,TV Show,697
+TV-PG,Movie,612
+TV-PG,TV Show,365
+UR,Movie,38
+UR,TV Show,22
