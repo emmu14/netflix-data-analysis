@@ -120,7 +120,7 @@ This generates `netflix_dashboard.png` automatically with 9 charts!
 ## 👤 About Me
 Project 3 in my data analytics portfolio.
 
-📧 your.email@gmail.com
+📧 emmanuvelchristin2@gmail.com
 🔗 [LinkedIn]www.linkedin.com/in/emmanuvel-christin-63b585264
 📊 [Project 1 — Sales Dashboard](https://github.com/emmu14/sales-dashboard)
 📊 [Project 2 — Customer Churn](https://github.com/emmu14/customer-churn-analysis)
